@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitmisk
 - 👀 I’m interested in AI ML
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently Teaching Data Science
 - 💞️ I’m looking to collaborate on AI Model
 - 📫 How to reach me ...wait...
 
